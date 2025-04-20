@@ -10,7 +10,9 @@
     "files": [
         "main.blocks",
         "main.ts",
-        "README.md"
+        "README.md",
+        "_locales\he\pkt-BYmicroBIT-jsdoc-strings.json",
+        "_locales\he\pkt-BYmicroBIT-strings.json"
     ],
     "testFiles": [
         "test.ts"

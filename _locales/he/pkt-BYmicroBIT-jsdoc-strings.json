@@ -1,0 +1,17 @@
+{
+  "Module_TM1650": "תצוגת ספרות TM1650",
+  "Module_TM1650.clear": "נקה את התצוגה",
+  "Module_TM1650.digit": "הצג ספרה במקום מסוים",
+  "Module_TM1650.digit|param|bit": "המיקום של הספרה, למשל: 0",
+  "Module_TM1650.off": "כבה את התצוגה",
+  "Module_TM1650.on": "הדלק את התצוגה",
+  "Module_TM1650.setIntensity": "קבע את עוצמת הבהירות של התצוגה",
+  "Module_TM1650.setIntensity|param|dat": "העוצמה של התצוגה, למשל: 3",
+  "Module_TM1650.showDpAt": "הצג נקודה במקום מסוים",
+  "Module_TM1650.showDpAt|param|bit": "המיקום של הנקודה, למשל: 0",
+  "Module_TM1650.showDpAt|param|show": "נכון/לא נכון, למשל: נכון",
+  "Module_TM1650.showHex": "הצג מספר בצורה הקסדצימלית",
+  "Module_TM1650.showHex|param|num": "המספר שיוצג, למשל: 123",
+  "Module_TM1650.showNumber": "הצג מספר בתצוגה",
+  "Module_TM1650.showNumber|param|num": "המספר שיוצג, למשל: 100"
+}

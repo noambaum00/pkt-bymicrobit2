@@ -1,0 +1,17 @@
+{
+  "Module_TM1650": "TM1650 digit Display",
+  "Module_TM1650.clear": "clear display content",
+  "Module_TM1650.digit": "show a digital in given position",
+  "Module_TM1650.digit|param|bit": "is position, eg: 0",
+  "Module_TM1650.off": "turn off display",
+  "Module_TM1650.on": "turn on display",
+  "Module_TM1650.setIntensity": "set display intensity",
+  "Module_TM1650.setIntensity|param|dat": "is intensity of the display, eg: 3",
+  "Module_TM1650.showDpAt": "show Dot Point in given position",
+  "Module_TM1650.showDpAt|param|bit": "is positiion, eg: 0",
+  "Module_TM1650.showDpAt|param|show": "is true/false, eg: true",
+  "Module_TM1650.showHex": "show a number in hex format",
+  "Module_TM1650.showHex|param|num": "is number will be shown, eg: 123",
+  "Module_TM1650.showNumber": "show a number in display",
+  "Module_TM1650.showNumber|param|num": "is number will be shown, eg: 100"
+}
