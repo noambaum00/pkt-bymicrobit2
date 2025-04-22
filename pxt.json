@@ -1,7 +1,7 @@
 {
     "name": "BYmicrobit",
-    "version": "1.0.2",
-    "description": "Extension for YahBoom YB_Module-World BUT in hebrew try 4",
+    "version": "1.0.5",
+    "description": "Extension for YahBoom YB_Module-World BUT in hebrew try 5",
     "license": "MIT",
     "dependencies": {
         "core": "*",
