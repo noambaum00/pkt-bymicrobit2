@@ -1,6 +1,6 @@
 ## BYmicrobit
 
-Extension for Yahboom YB_Module-World V1.0
+Extension for Yahboom YB_Module-World V1.0.5
 
 ## License
 
